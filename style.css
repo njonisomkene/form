@@ -1,0 +1,40 @@
+body{
+	background-image: url(image/desert.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.form{
+	width: 300px;
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin-top: 150px;
+	border-radius: 5px;
+}
+.input{
+	width: 90%;
+	padding: 15px;
+	margin-top:5px; 
+	margin-right:0px ;
+	margin-bottom: 20px ;
+	margin-left: 0px;
+	background-color: #f1f1f1;
+	border:none;
+	outline: none;
+	border-radius: 20px
+}
+.input:focus{
+	background-color: whitesmoke;
+
+}
+.btn{
+	width: 90px;
+	color: white;
+	background-color: blue;
+	padding: 10px;
+	cursor: pointer;
+	border:none;
+	border-radius: 5px;
+}
